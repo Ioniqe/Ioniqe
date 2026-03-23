@@ -1,5 +1,5 @@
 ## Hi there 👋
-I can build cool stuff if you get me coffee  ☕️
+Give me coffee and I'll build you stuff  ☕️
   
 ## 💻 Tech Stack
 <div align="center">
