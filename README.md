@@ -1,5 +1,5 @@
 ## Hi there 👋
-Gimme coffee and I'll build you stuff  ☕️
+Building cool stuff, bit by bit 👾
   
 ## 💻 Tech Stack
 <div align="center">
