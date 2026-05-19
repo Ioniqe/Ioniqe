@@ -11,5 +11,3 @@ Building cool stuff, bit by bit 👾
 ## 🌍 Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioana-manea-296892125?utm_source=share_via&utm_content=profile)
 
-## 🐍 Contributions
-![Snake animation](https://raw.githubusercontent.com/Ioniqe/Ioniqe/output/github-contribution-grid-snake-dark.svg)
