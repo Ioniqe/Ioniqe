@@ -1,5 +1,7 @@
 ## Hi there 👋
 Building cool stuff, bit by bit 👾
+
+Full-Stack Engineer at [Keenious](https://keenious.com) · more about me at [ioanamanea.net](https://ioanamanea.net)
   
 ## 💻 Tech Stack
 <div align="center">
@@ -9,5 +11,5 @@ Building cool stuff, bit by bit 👾
 </div>
 
 ## 🌍 Socials 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioana-manea-296892125?utm_source=share_via&utm_content=profile)
+[![Website](https://img.shields.io/badge/ioanamanea.net-C0561F.svg?logo=googlechrome&logoColor=white)](https://ioanamanea.net) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioana-manea-296892125?utm_source=share_via&utm_content=profile)
 
